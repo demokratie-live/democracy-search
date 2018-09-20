@@ -1,3 +1,3 @@
 #!/bin/bash
-docker run -p 9200:9200 elastic
+docker run -d -p 9200:9200 elastic
 
